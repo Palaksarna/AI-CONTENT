@@ -31,7 +31,7 @@ Follow these steps to get the application running locally:
 
 ## Checkout my app:
 ```bash
-https://content-summary.streamlit.app/
+https://ai-content-summarizing.streamlit.app/
 ```
 ## Usage
 1. **Select Input Type**:
